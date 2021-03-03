@@ -17,3 +17,5 @@ Exemple: +stats
 
 
 pour restock des compte creer un fichier .txt dans le dossier comptes
+
+Biensur avant de lancer le bot il faut decompresser les dossier
