@@ -2,7 +2,7 @@
 c'est le code d'un bot gen de truc 
 
 Liste des commandes
-GalackGen - générateur de compte
+gen de compte - générateur de compte
 Ceci est une liste de toutes les commandes
 Générer des comptes
 Exemple: +gen <Nom du service>
